@@ -3,7 +3,7 @@ import styles from 'styles/Home.module.css'
 const Content = () => ( 
   <main className={styles.main}>
     <h1 className={styles.title}>
-      안녕하세요 <a href="https://nextjs.org">Next.js!</a>
+      안녕하세요 <a href="https://nextjs.org">넥스트 JS</a>
     </h1>
 
     <p className={styles.description}>
